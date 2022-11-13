@@ -20,14 +20,23 @@ import net.mcreator.idontcare.item.NetheritediamondhoeItem;
 import net.mcreator.idontcare.item.NetheritediamondaxeItem;
 import net.mcreator.idontcare.item.NetheritediamondarmorItem;
 import net.mcreator.idontcare.item.NetheritediamondalloyItem;
+import net.mcreator.idontcare.item.IroncopperswordItem;
+import net.mcreator.idontcare.item.IroncoppershovelItem;
+import net.mcreator.idontcare.item.IroncopperpickaxeItem;
+import net.mcreator.idontcare.item.IroncopperhoeItem;
+import net.mcreator.idontcare.item.IroncopperaxeItem;
+import net.mcreator.idontcare.item.IroncopperarmorItem;
 import net.mcreator.idontcare.item.IroncopperalloyItem;
 import net.mcreator.idontcare.item.IdiotItem;
 import net.mcreator.idontcare.item.GoldironalloyItem;
 import net.mcreator.idontcare.item.DiamondgoldalloyItem;
+import net.mcreator.idontcare.item.CopperswordItem;
 import net.mcreator.idontcare.item.CoppershovelItem;
 import net.mcreator.idontcare.item.CopperpickaxeItem;
+import net.mcreator.idontcare.item.CopperhoeItem;
 import net.mcreator.idontcare.item.CoppercoalalloyItem;
 import net.mcreator.idontcare.item.CopperaxeItem;
+import net.mcreator.idontcare.item.CopperarmorItem;
 import net.mcreator.idontcare.IDontCareMod;
 
 public class IDontCareModItems {
@@ -54,6 +63,21 @@ public class IDontCareModItems {
 	public static Item COPPERAXE;
 	public static Item COPPERPICKAXE;
 	public static Item COPPERSHOVEL;
+	public static Item COPPERHOE;
+	public static Item COPPERSWORD;
+	public static Item COPPERARMOR_HELMET;
+	public static Item COPPERARMOR_CHESTPLATE;
+	public static Item COPPERARMOR_LEGGINGS;
+	public static Item COPPERARMOR_BOOTS;
+	public static Item IRONCOPPERPICKAXE;
+	public static Item IRONCOPPERAXE;
+	public static Item IRONCOPPERSHOVEL;
+	public static Item IRONCOPPERHOE;
+	public static Item IRONCOPPERSWORD;
+	public static Item IRONCOPPERARMOR_HELMET;
+	public static Item IRONCOPPERARMOR_CHESTPLATE;
+	public static Item IRONCOPPERARMOR_LEGGINGS;
+	public static Item IRONCOPPERARMOR_BOOTS;
 
 	public static void load() {
 		COPPERCOALALLOY = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "coppercoalalloy"), new CoppercoalalloyItem());
@@ -90,5 +114,29 @@ public class IDontCareModItems {
 		COPPERAXE = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "copperaxe"), new CopperaxeItem());
 		COPPERPICKAXE = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "copperpickaxe"), new CopperpickaxeItem());
 		COPPERSHOVEL = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "coppershovel"), new CoppershovelItem());
+		COPPERHOE = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "copperhoe"), new CopperhoeItem());
+		COPPERSWORD = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "coppersword"), new CopperswordItem());
+		COPPERARMOR_HELMET = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "copperarmor_helmet"),
+				new CopperarmorItem.Helmet());
+		COPPERARMOR_CHESTPLATE = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "copperarmor_chestplate"),
+				new CopperarmorItem.Chestplate());
+		COPPERARMOR_LEGGINGS = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "copperarmor_leggings"),
+				new CopperarmorItem.Leggings());
+		COPPERARMOR_BOOTS = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "copperarmor_boots"),
+				new CopperarmorItem.Boots());
+		IRONCOPPERPICKAXE = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "ironcopperpickaxe"),
+				new IroncopperpickaxeItem());
+		IRONCOPPERAXE = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "ironcopperaxe"), new IroncopperaxeItem());
+		IRONCOPPERSHOVEL = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "ironcoppershovel"), new IroncoppershovelItem());
+		IRONCOPPERHOE = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "ironcopperhoe"), new IroncopperhoeItem());
+		IRONCOPPERSWORD = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "ironcoppersword"), new IroncopperswordItem());
+		IRONCOPPERARMOR_HELMET = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "ironcopperarmor_helmet"),
+				new IroncopperarmorItem.Helmet());
+		IRONCOPPERARMOR_CHESTPLATE = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "ironcopperarmor_chestplate"),
+				new IroncopperarmorItem.Chestplate());
+		IRONCOPPERARMOR_LEGGINGS = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "ironcopperarmor_leggings"),
+				new IroncopperarmorItem.Leggings());
+		IRONCOPPERARMOR_BOOTS = Registry.register(Registry.ITEM, new ResourceLocation(IDontCareMod.MODID, "ironcopperarmor_boots"),
+				new IroncopperarmorItem.Boots());
 	}
 }
