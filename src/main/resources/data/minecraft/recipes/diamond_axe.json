@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "XX",
+    "X#",
+    " #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:air"
+    },
+    "X": {
+      "item": "minecraft:barrier"
+    }
+  },
+  "result": {
+    "item": "minecraft:diamond_axe"
+  }
+}
