@@ -1,6 +1,6 @@
 {
   "item.minecraft.netherite_scrap": "Netherite Shard",
-  "item.i_dont_care.ironcopperarmor_chestplate": "Ironcopperarmor Body",
+  "item.i_dont_care.ironcopperarmor_chestplate": "Reinforced Copper Chestplate",
   "item.minecraft.copper_ingot": "Copper Shard",
   "subtitles.rick": "",
   "item.i_dont_care.coppersword": "Copper Sword",
@@ -9,7 +9,7 @@
   "item.i_dont_care.pureironingot": "Iron Ingot",
   "item.i_dont_care.goldironalloy": "Golden Steel Alloy",
   "item.i_dont_care.copperarmor_leggings": "Copper Leggings",
-  "item.i_dont_care.ironcopperarmor_leggings": "Ironcopperarmor Leggings",
+  "item.i_dont_care.ironcopperarmor_leggings": "Reinforced Copper Leggings",
   "subtitles.pattumble": "",
   "item.i_dont_care.netheritediamondpickaxe": "Reinforced Diamond Pickaxe",
   "item.i_dont_care.ironcopperhoe": "Reinforced Copper Hoe",
@@ -42,11 +42,11 @@
   "item.i_dont_care.ironcopperaxe": "Reinforced Copper Axe",
   "item.i_dont_care.coppercoalalloy": "Dirty Copper Alloy",
   "item.i_dont_care.purediamond": "Diamond",
-  "item.i_dont_care.ironcopperarmor_boots": "Ironcopperarmor Boots",
+  "item.i_dont_care.ironcopperarmor_boots": "Reinforced Copper Boots",
   "item.i_dont_care.idiot": "Pat Tumble",
   "item.i_dont_care.netheritediamondalloy": "Crystalline Netherite Alloy",
   "item.i_dont_care.purenetheriteingot": "Netherite Ingot",
-  "item.i_dont_care.ironcopperarmor_helmet": "Ironcopperarmor Helmet",
+  "item.i_dont_care.ironcopperarmor_helmet": "Reinforced Copper Helmet",
   "item.minecraft.diamond": "Diamond Shard",
   "item.i_dont_care.purecopperingot": "Copper Ingot"
 }
