@@ -1,0 +1,11 @@
+{
+  "rick": {
+    "category": "record",
+    "sounds": [
+      {
+        "name": "i_dont_care:pat",
+        "stream": true
+      }
+    ]
+  }
+}

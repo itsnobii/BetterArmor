@@ -1,0 +1,29 @@
+{
+  "schemaVersion": 1,
+  "id": "i_dont_care",
+  "version": "1.0.0",
+  "name": "I don't care",
+  "authors": [
+    "nbdj1, MCreator"
+  ],
+  "contact": {
+    "homepage": "https://mcreator.net",
+    "sources": ""
+  },
+  "license": "Academic Free License v3.0",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "net.mcreator.idontcare.IDontCareMod"
+    ],
+    "client": [
+      "net.mcreator.idontcare.ClientInit"
+    ]
+  },
+  "depends": {
+    "fabricloader": ">=0.14.9",
+    "fabric": "*",
+    "minecraft": "~1.19",
+    "java": ">=17"
+  }
+}

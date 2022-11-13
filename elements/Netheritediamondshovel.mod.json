@@ -1,0 +1,31 @@
+{
+  "_fv": 34,
+  "_type": "tool",
+  "definition": {
+    "renderType": 0,
+    "texture": "shovel",
+    "customModelName": "Normal",
+    "name": "Reinforced Diamond Shovel",
+    "specialInfo": [],
+    "creativeTab": {
+      "value": "CUSTOM:Idc"
+    },
+    "toolType": "Spade",
+    "harvestLevel": 3,
+    "efficiency": 8.5,
+    "attackSpeed": 1.0,
+    "enchantability": 13,
+    "damageVsEntity": 3.0,
+    "usageCount": 1797,
+    "blocksAffected": [],
+    "hasGlow": false,
+    "repairItems": [
+      {
+        "value": "Items.DIAMOND"
+      }
+    ],
+    "immuneToFire": true,
+    "stayInGridWhenCrafting": false,
+    "damageOnCrafting": false
+  }
+}

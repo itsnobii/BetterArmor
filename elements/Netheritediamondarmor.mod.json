@@ -1,0 +1,62 @@
+{
+  "_fv": 34,
+  "_type": "armor",
+  "definition": {
+    "enableHelmet": true,
+    "textureHelmet": "im_lazy_helmet",
+    "enableBody": true,
+    "textureBody": "diamond_netherite_chestplaye",
+    "enableLeggings": true,
+    "textureLeggings": "leggings",
+    "enableBoots": true,
+    "textureBoots": "diamond_netherite_boots",
+    "creativeTab": {
+      "value": "CUSTOM:Idc"
+    },
+    "armorTextureFile": "diamond_netherite_",
+    "helmetName": "Reinforced Diamond Helmet",
+    "bodyName": "Reinforced Diamond Chestplate",
+    "leggingsName": "Reinforced Diamond Leggings",
+    "bootsName": "Reinforced Diamond Boots",
+    "helmetSpecialInfo": [],
+    "bodySpecialInfo": [],
+    "leggingsSpecialInfo": [],
+    "bootsSpecialInfo": [],
+    "helmetModelName": "Default",
+    "helmetModelPart": "Helmet",
+    "helmetModelTexture": "From armor",
+    "bodyModelName": "Default",
+    "bodyModelPart": "Body",
+    "armsModelPartL": "Arms L",
+    "armsModelPartR": "Arms R",
+    "bodyModelTexture": "From armor",
+    "leggingsModelName": "Default",
+    "leggingsModelPartL": "Leggings L",
+    "leggingsModelPartR": "Leggings R",
+    "leggingsModelTexture": "From armor",
+    "bootsModelName": "Default",
+    "bootsModelPartL": "Boots L",
+    "bootsModelPartR": "Boots R",
+    "bootsModelTexture": "From armor",
+    "helmetImmuneToFire": false,
+    "bodyImmuneToFire": false,
+    "leggingsImmuneToFire": false,
+    "bootsImmuneToFire": false,
+    "maxDamage": 35,
+    "damageValueHelmet": 3,
+    "damageValueBody": 8,
+    "damageValueLeggings": 6,
+    "damageValueBoots": 3,
+    "enchantability": 13,
+    "toughness": 2.5,
+    "knockbackResistance": 0.05,
+    "equipSound": {
+      "value": "item.armor.equip_netherite"
+    },
+    "repairItems": [
+      {
+        "value": "Items.DIAMOND"
+      }
+    ]
+  }
+}

@@ -1,0 +1,306 @@
+{
+  "mod_elements": [
+    {
+      "name": "Idc",
+      "type": "tab",
+      "sortid": 1,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "idc"
+    },
+    {
+      "name": "Coppercoalalloy",
+      "type": "item",
+      "sortid": 2,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppercoalalloy"
+    },
+    {
+      "name": "Coppercoalalloyrecipe",
+      "type": "recipe",
+      "sortid": 4,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppercoalalloyrecipe"
+    },
+    {
+      "name": "Diamondgoldalloy",
+      "type": "item",
+      "sortid": 5,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondgoldalloy"
+    },
+    {
+      "name": "Diamondgoldalloyrecipe",
+      "type": "recipe",
+      "sortid": 6,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondgoldalloyrecipe"
+    },
+    {
+      "name": "Goldironalloy",
+      "type": "item",
+      "sortid": 7,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironalloy"
+    },
+    {
+      "name": "Goldironalloyrecipe",
+      "type": "recipe",
+      "sortid": 8,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironalloyrecipe"
+    },
+    {
+      "name": "Ironcopperalloy",
+      "type": "item",
+      "sortid": 9,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironcopperalloy"
+    },
+    {
+      "name": "Ironcopperalloyrecipe",
+      "type": "recipe",
+      "sortid": 10,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironcopperalloyrecipe"
+    },
+    {
+      "name": "Netheritediamondalloy",
+      "type": "item",
+      "sortid": 11,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondalloy"
+    },
+    {
+      "name": "Netheritediamondalloyrecipe",
+      "type": "recipe",
+      "sortid": 12,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondalloyrecipe"
+    },
+    {
+      "name": "Pureironingot",
+      "type": "item",
+      "sortid": 13,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pureironingot"
+    },
+    {
+      "name": "Puregoldingot",
+      "type": "item",
+      "sortid": 14,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldingot"
+    },
+    {
+      "name": "Purediamond",
+      "type": "item",
+      "sortid": 15,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purediamond"
+    },
+    {
+      "name": "Purecopperingot",
+      "type": "item",
+      "sortid": 16,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purecopperingot"
+    },
+    {
+      "name": "Netheriteingotrecipe",
+      "type": "recipe",
+      "sortid": 17,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheriteingotrecipe"
+    },
+    {
+      "name": "Purenetheriteingot",
+      "type": "item",
+      "sortid": 18,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purenetheriteingot"
+    },
+    {
+      "name": "Netheritediamondarmor",
+      "type": "armor",
+      "sortid": 19,
+      "compiles": true,
+      "locked_code": true,
+      "registry_name": "netheritediamondarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Netheritediamondpickaxe",
+      "type": "tool",
+      "sortid": 20,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondpickaxe"
+    },
+    {
+      "name": "Netheritediamondaxe",
+      "type": "tool",
+      "sortid": 21,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondaxe"
+    },
+    {
+      "name": "Netheritediamondshovel",
+      "type": "tool",
+      "sortid": 22,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondshovel"
+    },
+    {
+      "name": "Netheritediamondhoe",
+      "type": "tool",
+      "sortid": 23,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondhoe"
+    },
+    {
+      "name": "Netheritediamondsword",
+      "type": "tool",
+      "sortid": 24,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondsword"
+    },
+    {
+      "name": "Idiot",
+      "type": "musicdisc",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "idiot"
+    },
+    {
+      "name": "PATTABLE",
+      "type": "loottable",
+      "sortid": 26,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pattable"
+    },
+    {
+      "name": "Copperpickaxe",
+      "type": "tool",
+      "sortid": 27,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperpickaxe"
+    },
+    {
+      "name": "Copperaxe",
+      "type": "tool",
+      "sortid": 25,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "copperaxe"
+    },
+    {
+      "name": "Coppershovel",
+      "type": "tool",
+      "sortid": 28,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "coppershovel"
+    }
+  ],
+  "variable_elements": [],
+  "sound_elements": [
+    {
+      "name": "rick",
+      "files": [
+        "pat"
+      ],
+      "category": "record",
+      "subtitle": ""
+    }
+  ],
+  "language_map": {
+    "en_us": {
+      "item.minecraft.netherite_scrap": "Netherite Shard",
+      "item.minecraft.copper_ingot": "Copper Shard",
+      "subtitles.rick": "",
+      "item.i_dont_care.copperpickaxe": "Copper Pickaxe",
+      "item.i_dont_care.pureironingot": "Iron Ingot",
+      "item.i_dont_care.coppershovel": "Copper Shovel",
+      "item.i_dont_care.netheritediamondhoe": "Reinforced Diamond Hoe",
+      "item.i_dont_care.netheritediamondarmor_helmet": "Reinforced Diamond Helmet",
+      "subtitles.tumblepat": "",
+      "item.i_dont_care.goldironalloy": "Golden Steel Alloy",
+      "item.i_dont_care.netheritediamondarmor_leggings": "Reinforced Diamond Leggings",
+      "subtitles.pattumble": "",
+      "item.i_dont_care.netheritediamondpickaxe": "Reinforced Diamond Pickaxe",
+      "item.i_dont_care.idiot.desc": "The forbidden song",
+      "item.i_dont_care.diamondgoldalloy": "Gilded Diamond Alloy",
+      "item.i_dont_care.ironcopperalloy": "Rusted Iron Alloy",
+      "item.i_dont_care.netheritediamondaxe": "Reinforced Diamond Axe",
+      "item.i_dont_care.netheritediamondshovel": "Reinforced Diamond Shovel",
+      "item.minecraft.iron_ingot": "Iron Shard",
+      "itemGroup.i_dont_care.idc": "Idc",
+      "item.i_dont_care.netheritediamondarmor_chestplate": "Reinforced Diamond Chestplate",
+      "item.i_dont_care.netheritediamondarmor_boots": "Reinforced Diamond Boots",
+      "subtitles.patricktumble": "",
+      "item.i_dont_care.coppercoalalloy": "Dirty Copper Alloy",
+      "item.i_dont_care.puregoldingot": "Gold Ingot",
+      "item.i_dont_care.purediamond": "Diamond",
+      "item.i_dont_care.idiot": "Pat Tumble",
+      "item.i_dont_care.netheritediamondalloy": "Crystalline Netherite Alloy",
+      "item.minecraft.gold_ingot": "Gold Shard",
+      "item.i_dont_care.purenetheriteingot": "Netherite Ingot",
+      "subtitles.pat_tumble": "",
+      "item.i_dont_care.copperaxe": "Copper Axe",
+      "item.i_dont_care.netheritediamondsword": "Reinforced Diamond Sword",
+      "item.minecraft.diamond": "Diamond Shard",
+      "item.i_dont_care.purecopperingot": "Copper Ingot"
+    }
+  },
+  "foldersRoot": {
+    "name": "~",
+    "children": []
+  },
+  "workspaceSettings": {
+    "modid": "i_dont_care",
+    "modName": "I don\u0027t care",
+    "version": "1.0.0",
+    "author": "nbdj1, MCreator",
+    "websiteURL": "https://mcreator.net",
+    "license": "Academic Free License v3.0",
+    "disableForgeVersionCheck": true,
+    "serverSideOnly": false,
+    "requiredMods": [],
+    "dependencies": [],
+    "dependants": [],
+    "mcreatorDependencies": [],
+    "currentGenerator": "fabric-1.19.2",
+    "modElementsPackage": "net.mcreator.idontcare",
+    "lockBaseModFiles": false
+  },
+  "mcreatorVersion": 202200346416
+}
