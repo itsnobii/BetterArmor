@@ -795,6 +795,78 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "pureironingotarmorrecipe_armor_boots_recipe"
+    },
+    {
+      "name": "GoldironalloyarmorrecipieArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 117,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironalloyarmorrecipie_armor_helmet_recipe"
+    },
+    {
+      "name": "GoldironalloyarmorrecipieArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 118,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironalloyarmorrecipie_armor_body_recipe"
+    },
+    {
+      "name": "GoldironalloyarmorrecipieArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 119,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironalloyarmorrecipie_armor_leggings_recipe"
+    },
+    {
+      "name": "GoldironalloyarmorrecipieArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 120,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironalloyarmorrecipie_armor_boots_recipe"
+    },
+    {
+      "name": "GoldironalloytoolrecipePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 126,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironalloytoolrecipe_pickaxe_recipe"
+    },
+    {
+      "name": "GoldironalloytoolrecipeAxeRecipe",
+      "type": "recipe",
+      "sortid": 127,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironalloytoolrecipe_axe_recipe"
+    },
+    {
+      "name": "GoldironalloytoolrecipeSwordRecipe",
+      "type": "recipe",
+      "sortid": 128,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironalloytoolrecipe_sword_recipe"
+    },
+    {
+      "name": "GoldironalloytoolrecipeShovelRecipe",
+      "type": "recipe",
+      "sortid": 129,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironalloytoolrecipe_shovel_recipe"
+    },
+    {
+      "name": "GoldironalloytoolrecipeHoeRecipe",
+      "type": "recipe",
+      "sortid": 130,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironalloytoolrecipe_hoe_recipe"
     }
   ],
   "variable_elements": [],

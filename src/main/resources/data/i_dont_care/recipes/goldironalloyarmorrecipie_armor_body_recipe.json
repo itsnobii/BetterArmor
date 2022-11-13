@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:iron_chestplate"
+  },
+  "addition": {
+    "item": "i_dont_care:goldironalloy"
+  },
+  "result": {
+    "item": "i_dont_care:goldironarmor_chestplate"
+  }
+}
