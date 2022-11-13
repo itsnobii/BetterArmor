@@ -315,12 +315,486 @@
       }
     },
     {
-      "name": "Rolled",
-      "type": "achievement",
-      "sortid": 38,
+      "name": "Goldironaxe",
+      "type": "tool",
+      "sortid": 40,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "rolled"
+      "registry_name": "goldironaxe"
+    },
+    {
+      "name": "Goldironpickaxe",
+      "type": "tool",
+      "sortid": 41,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironpickaxe"
+    },
+    {
+      "name": "Goldironhoe",
+      "type": "tool",
+      "sortid": 42,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironhoe"
+    },
+    {
+      "name": "Goldironshovel",
+      "type": "tool",
+      "sortid": 43,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironshovel"
+    },
+    {
+      "name": "Goldironsword",
+      "type": "tool",
+      "sortid": 44,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironsword"
+    },
+    {
+      "name": "Goldironarmor",
+      "type": "armor",
+      "sortid": 45,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "goldironarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Puregoldarmor",
+      "type": "armor",
+      "sortid": 46,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "Puregoldaxe",
+      "type": "tool",
+      "sortid": 47,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldaxe"
+    },
+    {
+      "name": "Puregoldpickaxe",
+      "type": "tool",
+      "sortid": 48,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldpickaxe"
+    },
+    {
+      "name": "Puregoldhoe",
+      "type": "tool",
+      "sortid": 49,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldhoe"
+    },
+    {
+      "name": "Puregoldshovel",
+      "type": "tool",
+      "sortid": 50,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldshovel"
+    },
+    {
+      "name": "Puregoldsword",
+      "type": "tool",
+      "sortid": 51,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldsword"
+    },
+    {
+      "name": "PurecopperingotarmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 53,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purecopperingotarmor_armor_helmet_recipe"
+    },
+    {
+      "name": "PurecopperingotarmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 54,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purecopperingotarmor_armor_body_recipe"
+    },
+    {
+      "name": "PurecopperingotarmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 55,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purecopperingotarmor_armor_leggings_recipe"
+    },
+    {
+      "name": "PurecopperingotarmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 56,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purecopperingotarmor_armor_boots_recipe"
+    },
+    {
+      "name": "PurecopperingottoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 62,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purecopperingottools_pickaxe_recipe"
+    },
+    {
+      "name": "PurecopperingottoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 63,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purecopperingottools_axe_recipe"
+    },
+    {
+      "name": "PurecopperingottoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 64,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purecopperingottools_sword_recipe"
+    },
+    {
+      "name": "PurecopperingottoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 65,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purecopperingottools_shovel_recipe"
+    },
+    {
+      "name": "PurecopperingottoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 66,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purecopperingottools_hoe_recipe"
+    },
+    {
+      "name": "IroncopperalloyarmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 68,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironcopperalloyarmor_armor_helmet_recipe"
+    },
+    {
+      "name": "IroncopperalloyarmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 69,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironcopperalloyarmor_armor_body_recipe"
+    },
+    {
+      "name": "IroncopperalloyarmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 70,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironcopperalloyarmor_armor_leggings_recipe"
+    },
+    {
+      "name": "IroncopperalloyarmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 71,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironcopperalloyarmor_armor_boots_recipe"
+    },
+    {
+      "name": "IroncopperalloytoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 77,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironcopperalloytools_pickaxe_recipe"
+    },
+    {
+      "name": "IroncopperalloytoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 78,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironcopperalloytools_axe_recipe"
+    },
+    {
+      "name": "IroncopperalloytoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 79,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironcopperalloytools_sword_recipe"
+    },
+    {
+      "name": "IroncopperalloytoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 80,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironcopperalloytools_shovel_recipe"
+    },
+    {
+      "name": "IroncopperalloytoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 81,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "ironcopperalloytools_hoe_recipe"
+    },
+    {
+      "name": "Reinforcedgoldarmor",
+      "type": "armor",
+      "sortid": 82,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforcedgoldarmor",
+      "metadata": {
+        "eh": true,
+        "el": true,
+        "eb": true,
+        "ec": true
+      }
+    },
+    {
+      "name": "DiamondgoldalloytoolsPickaxe",
+      "type": "tool",
+      "sortid": 83,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondgoldalloytools_pickaxe"
+    },
+    {
+      "name": "DiamondgoldalloytoolsAxe",
+      "type": "tool",
+      "sortid": 84,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondgoldalloytools_axe"
+    },
+    {
+      "name": "DiamondgoldalloytoolsSword",
+      "type": "tool",
+      "sortid": 85,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondgoldalloytools_sword"
+    },
+    {
+      "name": "DiamondgoldalloytoolsShovel",
+      "type": "tool",
+      "sortid": 86,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondgoldalloytools_shovel"
+    },
+    {
+      "name": "DiamondgoldalloytoolsHoe",
+      "type": "tool",
+      "sortid": 87,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondgoldalloytools_hoe"
+    },
+    {
+      "name": "DiamondgoldalloytoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 88,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondgoldalloytools_pickaxe_recipe"
+    },
+    {
+      "name": "DiamondgoldalloytoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 89,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondgoldalloytools_axe_recipe"
+    },
+    {
+      "name": "DiamondgoldalloytoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 90,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondgoldalloytools_sword_recipe"
+    },
+    {
+      "name": "DiamondgoldalloytoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 91,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondgoldalloytools_shovel_recipe"
+    },
+    {
+      "name": "DiamondgoldalloytoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 92,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "diamondgoldalloytools_hoe_recipe"
+    },
+    {
+      "name": "Reinforcedgoldenhelmetrecipe",
+      "type": "recipe",
+      "sortid": 93,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforcedgoldenhelmetrecipe"
+    },
+    {
+      "name": "Reinforcedgooldenchestplaterecipe",
+      "type": "recipe",
+      "sortid": 94,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforcedgooldenchestplaterecipe"
+    },
+    {
+      "name": "Reinforcedgoldenleggingrecipe",
+      "type": "recipe",
+      "sortid": 95,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforcedgoldenleggingrecipe"
+    },
+    {
+      "name": "Reinforcedgoldenbootsrecipe",
+      "type": "recipe",
+      "sortid": 96,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "reinforcedgoldenbootsrecipe"
+    },
+    {
+      "name": "Purecoppperingotrecipe",
+      "type": "recipe",
+      "sortid": 97,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purecoppperingotrecipe"
+    },
+    {
+      "name": "Pureironingotrecipe",
+      "type": "recipe",
+      "sortid": 98,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pureironingotrecipe"
+    },
+    {
+      "name": "Puregoldingotrecipe",
+      "type": "recipe",
+      "sortid": 99,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldingotrecipe"
+    },
+    {
+      "name": "Purediamondrecipe",
+      "type": "recipe",
+      "sortid": 100,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purediamondrecipe"
+    },
+    {
+      "name": "PureironingottoolsrecipePickaxeRecipe",
+      "type": "recipe",
+      "sortid": 106,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pureironingottoolsrecipe_pickaxe_recipe"
+    },
+    {
+      "name": "PureironingottoolsrecipeAxeRecipe",
+      "type": "recipe",
+      "sortid": 107,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pureironingottoolsrecipe_axe_recipe"
+    },
+    {
+      "name": "PureironingottoolsrecipeSwordRecipe",
+      "type": "recipe",
+      "sortid": 108,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pureironingottoolsrecipe_sword_recipe"
+    },
+    {
+      "name": "PureironingottoolsrecipeShovelRecipe",
+      "type": "recipe",
+      "sortid": 109,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pureironingottoolsrecipe_shovel_recipe"
+    },
+    {
+      "name": "PureironingottoolsrecipeHoeRecipe",
+      "type": "recipe",
+      "sortid": 110,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pureironingottoolsrecipe_hoe_recipe"
+    },
+    {
+      "name": "PureironingotarmorrecipeArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 112,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pureironingotarmorrecipe_armor_helmet_recipe"
+    },
+    {
+      "name": "PureironingotarmorrecipeArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 113,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pureironingotarmorrecipe_armor_body_recipe"
+    },
+    {
+      "name": "PureironingotarmorrecipeArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 114,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pureironingotarmorrecipe_armor_leggings_recipe"
+    },
+    {
+      "name": "PureironingotarmorrecipeArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 115,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pureironingotarmorrecipe_armor_boots_recipe"
     }
   ],
   "variable_elements": [],
@@ -343,34 +817,46 @@
       "item.i_dont_care.coppersword": "Copper Sword",
       "item.i_dont_care.ironcoppershovel": "Reinforced Copper Shovel",
       "item.i_dont_care.copperpickaxe": "Copper Pickaxe",
+      "item.i_dont_care.goldironpickaxe": "Reinforced Iron Pickaxe",
       "item.i_dont_care.pureironingot": "Iron Ingot",
-      "item.minecraft.golden_boots": "Rose Gold Boots",
+      "item.i_dont_care.goldironarmor_chestplate": "Reinforced Iron Chestplate",
       "item.minecraft.golden_helmet": "Rose Gold Helmet",
+      "item.minecraft.golden_boots": "Rose Gold Boots",
       "item.i_dont_care.goldironalloy": "Golden Steel Alloy",
       "item.i_dont_care.copperarmor_leggings": "Copper Leggings",
       "item.i_dont_care.ironcopperarmor_leggings": "Reinforced Copper Leggings",
+      "item.i_dont_care.puregoldhoe": "Golden Hoe",
       "subtitles.pattumble": "",
+      "item.i_dont_care.goldironarmor_boots": "Reinforced Iron Boots",
+      "item.i_dont_care.puregoldsword": "Golden Sword",
       "item.i_dont_care.netheritediamondpickaxe": "Reinforced Diamond Pickaxe",
-      "advancements.rolled.title": "Rolled",
       "item.minecraft.golden_axe": "Rose Gold Axe",
       "item.i_dont_care.ironcopperhoe": "Reinforced Copper Hoe",
       "item.i_dont_care.diamondgoldalloy": "Gilded Diamond Alloy",
       "item.i_dont_care.ironcopperalloy": "Rusted Iron Alloy",
-      "advancements.rolled.descr": "Get rolled kid",
       "item.i_dont_care.netheritediamondaxe": "Reinforced Diamond Axe",
+      "item.i_dont_care.reinforcedgoldarmor_chestplate": "Reinforced Golden Chestplate",
+      "item.i_dont_care.goldironarmor_leggings": "Reinforced Iron Leggings",
+      "item.i_dont_care.goldironsword": "Reinforced Iron Sword",
+      "item.i_dont_care.puregoldpickaxe": "Golden Pickaxe",
+      "item.i_dont_care.diamondgoldalloytools_hoe": "Reinforced Golden Hoe",
       "itemGroup.i_dont_care.idc": "Idc",
       "item.i_dont_care.netheritediamondarmor_chestplate": "Reinforced Diamond Chestplate",
       "item.i_dont_care.netheritediamondarmor_boots": "Reinforced Diamond Boots",
       "subtitles.patricktumble": "",
       "item.i_dont_care.ironcopperpickaxe": "Reinforced Copper Pickaxe",
+      "item.i_dont_care.diamondgoldalloytools_pickaxe": "Reinforced Golden Pickaxe",
       "item.minecraft.golden_leggings": "Rose Gold Leggings",
       "item.i_dont_care.puregoldingot": "Gold Ingot",
       "item.i_dont_care.copperarmor_helmet": "Copper Helmet",
+      "item.i_dont_care.puregoldshovel": "Golden Shovel",
       "item.minecraft.gold_ingot": "Gold Shard",
       "item.i_dont_care.copperarmor_boots": "Copper Boots",
       "subtitles.pat_tumble": "",
       "item.i_dont_care.copperaxe": "Copper Axe",
       "item.i_dont_care.netheritediamondsword": "Reinforced Diamond Sword",
+      "item.i_dont_care.reinforcedgoldarmor_helmet": "Reinforced Golden Helmet",
+      "item.i_dont_care.puregoldaxe": "Golden Axe",
       "item.minecraft.golden_chestplate": "Rose Gold Chestplate",
       "item.minecraft.golden_shovel": "Rose Gold Shovel",
       "item.minecraft.golden_hoe": "Rose Gold Hoe",
@@ -379,24 +865,37 @@
       "item.i_dont_care.netheritediamondhoe": "Reinforced Diamond Hoe",
       "item.i_dont_care.netheritediamondarmor_helmet": "Reinforced Diamond Helmet",
       "subtitles.tumblepat": "",
+      "item.i_dont_care.puregoldarmor_boots": "Golden Boots",
+      "item.i_dont_care.goldironshovel": "Reinforced Iron Shovel",
       "item.i_dont_care.netheritediamondarmor_leggings": "Reinforced Diamond Leggings",
+      "item.i_dont_care.diamondgoldalloytools_sword": "Reinforced Golden Sword",
+      "item.i_dont_care.goldironhoe": "Reinforced Iron Hoe",
       "item.i_dont_care.idiot.desc": "The forbidden song",
       "item.i_dont_care.netheritediamondshovel": "Reinforced Diamond Shovel",
       "item.minecraft.iron_ingot": "Iron Shard",
+      "item.i_dont_care.reinforcedgoldarmor_boots": "Reinforced Golden Boots",
+      "item.i_dont_care.puregoldarmor_chestplate": "Golden Chestplate",
+      "item.i_dont_care.puregoldarmor_leggings": "Golden Leggings",
+      "item.i_dont_care.reinforcedgoldarmor_leggings": "Reinforced Golden Leggings",
       "item.i_dont_care.ironcoppersword": "Reinforced Copper Sword",
       "item.i_dont_care.copperarmor_chestplate": "Copper Chestplate",
+      "item.i_dont_care.goldironaxe": "Reinforced Iron Axe",
       "item.i_dont_care.copperhoe": "Copper Hoe",
       "item.i_dont_care.ironcopperaxe": "Reinforced Copper Axe",
       "item.i_dont_care.coppercoalalloy": "Dirty Copper Alloy",
       "item.i_dont_care.purediamond": "Diamond",
       "item.i_dont_care.ironcopperarmor_boots": "Reinforced Copper Boots",
       "item.i_dont_care.idiot": "Pat Tumble",
+      "item.i_dont_care.goldironarmor_helmet": "Reinforced Iron Helmet",
       "item.i_dont_care.netheritediamondalloy": "Crystalline Netherite Alloy",
+      "item.i_dont_care.diamondgoldalloytools_axe": "Reinforced Golden Axe",
       "item.i_dont_care.purenetheriteingot": "Netherite Ingot",
+      "item.i_dont_care.puregoldarmor_helmet": "Golden Helmet",
       "item.i_dont_care.ironcopperarmor_helmet": "Reinforced Copper Helmet",
       "item.minecraft.diamond": "Diamond Shard",
       "item.i_dont_care.purecopperingot": "Copper Ingot",
-      "item.minecraft.golden_sword": "Rose Gold Sword"
+      "item.minecraft.golden_sword": "Rose Gold Sword",
+      "item.i_dont_care.diamondgoldalloytools_shovel": "Reinforced Golden Shovel"
     }
   },
   "foldersRoot": {

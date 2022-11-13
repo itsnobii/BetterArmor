@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "i_dont_care:ironcopperarmor_leggings"
+  },
+  "addition": {
+    "item": "i_dont_care:pureironingot"
+  },
+  "result": {
+    "item": "minecraft:iron_leggings"
+  }
+}

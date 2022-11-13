@@ -16,7 +16,7 @@
             "item": {
               "value": "CUSTOM:Idiot"
             },
-            "weight": 100,
+            "weight": 10,
             "minCount": 1,
             "maxCount": 1,
             "minEnchantmentLevel": 0,

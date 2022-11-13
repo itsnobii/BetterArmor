@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "i_dont_care:copperaxe"
+  },
+  "addition": {
+    "item": "i_dont_care:ironcopperalloy"
+  },
+  "result": {
+    "item": "i_dont_care:ironcopperaxe"
+  }
+}

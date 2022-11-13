@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "i_dont_care:puregoldarmor_helmet"
+  },
+  "addition": {
+    "item": "i_dont_care:diamondgoldalloy"
+  },
+  "result": {
+    "item": "i_dont_care:reinforcedgoldarmor_helmet"
+  }
+}

@@ -1,0 +1,41 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "minecraft:copper_ingot"
+    },
+    "1": {
+      "item": "minecraft:copper_ingot"
+    },
+    "2": {
+      "item": "minecraft:copper_ingot"
+    },
+    "3": {
+      "item": "minecraft:copper_ingot"
+    },
+    "4": {
+      "item": "i_dont_care:coppercoalalloy"
+    },
+    "5": {
+      "item": "minecraft:copper_ingot"
+    },
+    "6": {
+      "item": "minecraft:copper_ingot"
+    },
+    "7": {
+      "item": "minecraft:copper_ingot"
+    },
+    "8": {
+      "item": "minecraft:copper_ingot"
+    }
+  },
+  "result": {
+    "item": "i_dont_care:purecopperingot",
+    "count": 1
+  }
+}

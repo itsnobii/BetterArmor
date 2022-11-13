@@ -1,0 +1,23 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:Ironcopperarmor.body"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:Pureironingot"
+    },
+    "smithingReturnStack": {
+      "value": "Items.IRON_CHESTPLATE"
+    },
+    "name": "pureironingotarmorrecipe_armor_body_recipe",
+    "namespace": "mod"
+  }
+}

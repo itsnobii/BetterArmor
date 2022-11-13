@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "0 2",
+    "345",
+    "678"
+  ],
+  "key": {
+    "0": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "2": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "3": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "4": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "5": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "6": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "7": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "8": {
+      "item": "i_dont_care:purecopperingot"
+    }
+  },
+  "result": {
+    "item": "i_dont_care:copperarmor_chestplate",
+    "count": 1
+  }
+}

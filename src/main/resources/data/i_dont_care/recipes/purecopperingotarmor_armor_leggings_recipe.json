@@ -1,0 +1,35 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "012",
+    "3 5",
+    "6 8"
+  ],
+  "key": {
+    "0": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "1": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "2": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "3": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "5": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "6": {
+      "item": "i_dont_care:purecopperingot"
+    },
+    "8": {
+      "item": "i_dont_care:purecopperingot"
+    }
+  },
+  "result": {
+    "item": "i_dont_care:copperarmor_leggings",
+    "count": 1
+  }
+}
