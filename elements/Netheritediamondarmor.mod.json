@@ -11,7 +11,7 @@
     "enableBoots": true,
     "textureBoots": "diamond_netherite_boots",
     "creativeTab": {
-      "value": "CUSTOM:Idc"
+      "value": "TOOLS"
     },
     "armorTextureFile": "diamond_netherite_",
     "helmetName": "Reinforced Diamond Helmet",

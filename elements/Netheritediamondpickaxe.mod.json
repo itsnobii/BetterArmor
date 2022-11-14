@@ -8,7 +8,7 @@
     "name": "Reinforced Diamond Pickaxe",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:Idc"
+      "value": "TOOLS"
     },
     "toolType": "Pickaxe",
     "harvestLevel": 3,

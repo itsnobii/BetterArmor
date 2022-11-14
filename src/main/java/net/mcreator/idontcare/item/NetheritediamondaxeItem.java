@@ -6,9 +6,8 @@ import net.minecraft.world.item.Tier;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.AxeItem;
-
-import net.mcreator.idontcare.init.IDontCareModTabs;
 
 public class NetheritediamondaxeItem extends AxeItem {
 	public NetheritediamondaxeItem() {
@@ -36,6 +35,6 @@ public class NetheritediamondaxeItem extends AxeItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(Items.DIAMOND));
 			}
-		}, 1, -3f, new Item.Properties().tab(IDontCareModTabs.TAB_IDC).fireResistant());
+		}, 1, -3f, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS).fireResistant());
 	}
 }

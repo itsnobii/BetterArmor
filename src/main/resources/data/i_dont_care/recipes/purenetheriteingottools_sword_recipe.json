@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "i_dont_care:netheritediamondshovel"
+  },
+  "addition": {
+    "item": "i_dont_care:purenetheriteingot"
+  },
+  "result": {
+    "item": "minecraft:netherite_shovel"
+  }
+}

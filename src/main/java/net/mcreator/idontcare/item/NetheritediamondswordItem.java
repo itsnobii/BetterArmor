@@ -7,8 +7,7 @@ import net.minecraft.world.item.SwordItem;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
-
-import net.mcreator.idontcare.init.IDontCareModTabs;
+import net.minecraft.world.item.CreativeModeTab;
 
 public class NetheritediamondswordItem extends SwordItem {
 	public NetheritediamondswordItem() {
@@ -36,6 +35,6 @@ public class NetheritediamondswordItem extends SwordItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(Items.DIAMOND));
 			}
-		}, 3, -2.4f, new Item.Properties().tab(IDontCareModTabs.TAB_IDC).fireResistant());
+		}, 3, -2.4f, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS).fireResistant());
 	}
 }

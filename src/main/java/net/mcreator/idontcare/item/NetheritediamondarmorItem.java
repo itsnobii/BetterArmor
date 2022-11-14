@@ -5,13 +5,12 @@ import net.minecraft.world.item.crafting.Ingredient;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
+import net.minecraft.world.item.CreativeModeTab;
 import net.minecraft.world.item.ArmorMaterial;
 import net.minecraft.world.item.ArmorItem;
 import net.minecraft.world.entity.EquipmentSlot;
 import net.minecraft.sounds.SoundEvents;
 import net.minecraft.sounds.SoundEvent;
-
-import net.mcreator.idontcare.init.IDontCareModTabs;
 
 import net.fabricmc.api.Environment;
 import net.fabricmc.api.EnvType;
@@ -65,7 +64,7 @@ public abstract class NetheritediamondarmorItem extends ArmorItem {
 	public static class Helmet extends NetheritediamondarmorItem {
 
 		public Helmet() {
-			super(EquipmentSlot.HEAD, new Item.Properties().tab(IDontCareModTabs.TAB_IDC).fireResistant());
+			super(EquipmentSlot.HEAD, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS).fireResistant());
 		}
 
 	}
@@ -73,7 +72,7 @@ public abstract class NetheritediamondarmorItem extends ArmorItem {
 	public static class Chestplate extends NetheritediamondarmorItem {
 
 		public Chestplate() {
-			super(EquipmentSlot.CHEST, new Item.Properties().tab(IDontCareModTabs.TAB_IDC).fireResistant());
+			super(EquipmentSlot.CHEST, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS).fireResistant());
 		}
 
 	}
@@ -81,7 +80,7 @@ public abstract class NetheritediamondarmorItem extends ArmorItem {
 	public static class Leggings extends NetheritediamondarmorItem {
 
 		public Leggings() {
-			super(EquipmentSlot.LEGS, new Item.Properties().tab(IDontCareModTabs.TAB_IDC).fireResistant());
+			super(EquipmentSlot.LEGS, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS).fireResistant());
 		}
 
 	}
@@ -89,7 +88,7 @@ public abstract class NetheritediamondarmorItem extends ArmorItem {
 	public static class Boots extends NetheritediamondarmorItem {
 
 		public Boots() {
-			super(EquipmentSlot.FEET, new Item.Properties().tab(IDontCareModTabs.TAB_IDC).fireResistant());
+			super(EquipmentSlot.FEET, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS).fireResistant());
 		}
 
 	}

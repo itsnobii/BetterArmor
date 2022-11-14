@@ -1,0 +1,23 @@
+{
+  "_fv": 34,
+  "_type": "recipe",
+  "definition": {
+    "recipeType": "Smithing",
+    "xpReward": 0.0,
+    "cookingTime": 200,
+    "recipeRetstackSize": 1,
+    "group": "",
+    "recipeShapeless": false,
+    "smithingInputStack": {
+      "value": "CUSTOM:Goldironhoe"
+    },
+    "smithingInputAdditionStack": {
+      "value": "CUSTOM:Puregoldingot"
+    },
+    "smithingReturnStack": {
+      "value": "CUSTOM:Puregoldhoe"
+    },
+    "name": "puregoldtools_hoe_recipe",
+    "namespace": "mod"
+  }
+}

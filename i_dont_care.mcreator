@@ -867,6 +867,198 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "goldironalloytoolrecipe_hoe_recipe"
+    },
+    {
+      "name": "PuregoldtoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 136,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldtools_pickaxe_recipe"
+    },
+    {
+      "name": "PuregoldtoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 137,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldtools_axe_recipe"
+    },
+    {
+      "name": "PuregoldtoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 138,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldtools_sword_recipe"
+    },
+    {
+      "name": "PuregoldtoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 139,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldtools_shovel_recipe"
+    },
+    {
+      "name": "PuregoldtoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 140,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldtools_hoe_recipe"
+    },
+    {
+      "name": "PuregoldingotarmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 142,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldingotarmor_armor_helmet_recipe"
+    },
+    {
+      "name": "PuregoldingotarmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 143,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldingotarmor_armor_body_recipe"
+    },
+    {
+      "name": "PuregoldingotarmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 144,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldingotarmor_armor_leggings_recipe"
+    },
+    {
+      "name": "PuregoldingotarmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 145,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "puregoldingotarmor_armor_boots_recipe"
+    },
+    {
+      "name": "PurediamondtoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 151,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purediamondtools_pickaxe_recipe"
+    },
+    {
+      "name": "PurediamondtoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 152,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purediamondtools_axe_recipe"
+    },
+    {
+      "name": "PurediamondtoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 153,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purediamondtools_sword_recipe"
+    },
+    {
+      "name": "PurediamondtoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 154,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purediamondtools_shovel_recipe"
+    },
+    {
+      "name": "PurediamondtoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 155,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purediamondtools_hoe_recipe"
+    },
+    {
+      "name": "PurediamondarmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 157,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purediamondarmor_armor_helmet_recipe"
+    },
+    {
+      "name": "PurediamondarmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 158,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purediamondarmor_armor_body_recipe"
+    },
+    {
+      "name": "PurediamondarmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 159,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purediamondarmor_armor_leggings_recipe"
+    },
+    {
+      "name": "PurediamondarmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 160,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purediamondarmor_armor_boots_recipe"
+    },
+    {
+      "name": "PurenetheriteingottoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 166,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purenetheriteingottools_pickaxe_recipe"
+    },
+    {
+      "name": "PurenetheriteingottoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 167,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purenetheriteingottools_axe_recipe"
+    },
+    {
+      "name": "PurenetheriteingottoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 168,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purenetheriteingottools_sword_recipe"
+    },
+    {
+      "name": "PurenetheriteingottoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 169,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purenetheriteingottools_shovel_recipe"
+    },
+    {
+      "name": "PurenetheriteingottoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 170,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purenetheriteingottools_hoe_recipe"
+    },
+    {
+      "name": "Patachievement",
+      "type": "achievement",
+      "sortid": 171,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "patachievement"
     }
   ],
   "variable_elements": [],
@@ -885,7 +1077,7 @@
       "item.minecraft.netherite_scrap": "Netherite Shard",
       "item.i_dont_care.ironcopperarmor_chestplate": "Reinforced Copper Chestplate",
       "item.minecraft.copper_ingot": "Copper Shard",
-      "subtitles.rick": "",
+      "subtitles.rick": "Void Netherite Ingot",
       "item.i_dont_care.coppersword": "Copper Sword",
       "item.i_dont_care.ironcoppershovel": "Reinforced Copper Shovel",
       "item.i_dont_care.copperpickaxe": "Copper Pickaxe",
@@ -908,6 +1100,7 @@
       "item.i_dont_care.ironcopperalloy": "Rusted Iron Alloy",
       "item.i_dont_care.netheritediamondaxe": "Reinforced Diamond Axe",
       "item.i_dont_care.reinforcedgoldarmor_chestplate": "Reinforced Golden Chestplate",
+      "item.minecraft.netherite_ingot": "",
       "item.i_dont_care.goldironarmor_leggings": "Reinforced Iron Leggings",
       "item.i_dont_care.goldironsword": "Reinforced Iron Sword",
       "item.i_dont_care.puregoldpickaxe": "Golden Pickaxe",
@@ -929,6 +1122,7 @@
       "item.i_dont_care.netheritediamondsword": "Reinforced Diamond Sword",
       "item.i_dont_care.reinforcedgoldarmor_helmet": "Reinforced Golden Helmet",
       "item.i_dont_care.puregoldaxe": "Golden Axe",
+      "advancements.patachievement.title": "Rolled",
       "item.minecraft.golden_chestplate": "Rose Gold Chestplate",
       "item.minecraft.golden_shovel": "Rose Gold Shovel",
       "item.minecraft.golden_hoe": "Rose Gold Hoe",
@@ -941,6 +1135,7 @@
       "item.i_dont_care.goldironshovel": "Reinforced Iron Shovel",
       "item.i_dont_care.netheritediamondarmor_leggings": "Reinforced Diamond Leggings",
       "item.i_dont_care.diamondgoldalloytools_sword": "Reinforced Golden Sword",
+      "advancements.patachievement.descr": "Find out that there is no escape",
       "item.i_dont_care.goldironhoe": "Reinforced Iron Hoe",
       "item.i_dont_care.idiot.desc": "The forbidden song",
       "item.i_dont_care.netheritediamondshovel": "Reinforced Diamond Shovel",

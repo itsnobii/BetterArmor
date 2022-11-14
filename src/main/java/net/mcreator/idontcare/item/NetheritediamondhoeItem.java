@@ -7,8 +7,7 @@ import net.minecraft.world.item.Items;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
 import net.minecraft.world.item.HoeItem;
-
-import net.mcreator.idontcare.init.IDontCareModTabs;
+import net.minecraft.world.item.CreativeModeTab;
 
 public class NetheritediamondhoeItem extends HoeItem {
 	public NetheritediamondhoeItem() {
@@ -36,6 +35,6 @@ public class NetheritediamondhoeItem extends HoeItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(Items.DIAMOND));
 			}
-		}, 0, 0f, new Item.Properties().tab(IDontCareModTabs.TAB_IDC).fireResistant());
+		}, 0, 0f, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS).fireResistant());
 	}
 }

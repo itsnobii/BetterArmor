@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "i_dont_care:goldironsword"
+  },
+  "addition": {
+    "item": "i_dont_care:puregoldingot"
+  },
+  "result": {
+    "item": "i_dont_care:puregoldsword"
+  }
+}

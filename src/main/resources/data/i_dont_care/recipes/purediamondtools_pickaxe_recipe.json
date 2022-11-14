@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "i_dont_care:diamondgoldalloytools_pickaxe"
+  },
+  "addition": {
+    "item": "i_dont_care:purediamond"
+  },
+  "result": {
+    "item": "minecraft:diamond_helmet"
+  }
+}

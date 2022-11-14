@@ -8,7 +8,7 @@
     "name": "Reinforced Diamond Shovel",
     "specialInfo": [],
     "creativeTab": {
-      "value": "CUSTOM:Idc"
+      "value": "TOOLS"
     },
     "toolType": "Spade",
     "harvestLevel": 3,
