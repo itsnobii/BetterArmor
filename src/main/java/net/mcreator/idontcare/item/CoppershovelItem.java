@@ -7,8 +7,7 @@ import net.minecraft.world.item.ShovelItem;
 import net.minecraft.world.item.Items;
 import net.minecraft.world.item.ItemStack;
 import net.minecraft.world.item.Item;
-
-import net.mcreator.idontcare.init.IDontCareModTabs;
+import net.minecraft.world.item.CreativeModeTab;
 
 public class CoppershovelItem extends ShovelItem {
 	public CoppershovelItem() {
@@ -36,6 +35,6 @@ public class CoppershovelItem extends ShovelItem {
 			public Ingredient getRepairIngredient() {
 				return Ingredient.of(new ItemStack(Items.COPPER_INGOT));
 			}
-		}, 1, -3f, new Item.Properties().tab(IDontCareModTabs.TAB_IDC));
+		}, 1, -3f, new Item.Properties().tab(CreativeModeTab.TAB_TOOLS));
 	}
 }
