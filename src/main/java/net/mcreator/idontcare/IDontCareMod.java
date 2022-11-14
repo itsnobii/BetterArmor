@@ -17,6 +17,7 @@ import org.apache.logging.log4j.LogManager;
 
 import net.mcreator.idontcare.init.IDontCareModTabs;
 import net.mcreator.idontcare.init.IDontCareModSounds;
+import net.mcreator.idontcare.init.IDontCareModProcedures;
 import net.mcreator.idontcare.init.IDontCareModItems;
 
 import net.fabricmc.api.ModInitializer;
@@ -31,6 +32,8 @@ public class IDontCareMod implements ModInitializer {
 		IDontCareModTabs.load();
 
 		IDontCareModItems.load();
+
+		IDontCareModProcedures.load();
 
 		IDontCareModSounds.load();
 	}

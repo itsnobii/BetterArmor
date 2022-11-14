@@ -1165,12 +1165,24 @@
       "registry_name": "netheritediamondalloyarmor_armor_boots_recipe"
     },
     {
-      "name": "Dianetheritehoeadv",
-      "type": "achievement",
-      "sortid": 192,
+      "name": "IdiotRightclickedOnBlock",
+      "type": "procedure",
+      "sortid": 193,
       "compiles": true,
       "locked_code": false,
-      "registry_name": "dianetheritehoeadv"
+      "registry_name": "idiot_rightclicked_on_block",
+      "metadata": {
+        "dependencies": [
+          {
+            "name": "blockstate",
+            "type": "blockstate"
+          },
+          {
+            "name": "entity",
+            "type": "entity"
+          }
+        ]
+      }
     }
   ],
   "variable_elements": [],
@@ -1219,7 +1231,6 @@
       "item.i_dont_care.diamondgoldalloytools_hoe": "Reinforced Golden Hoe",
       "itemGroup.i_dont_care.idc": "Idc",
       "item.i_dont_care.netheritediamondarmor_chestplate": "Reinforced Diamond Chestplate",
-      "advancements.dianetheritehoeadv.title": "A Really Awkward Middle Ground",
       "item.i_dont_care.netheritediamondarmor_boots": "Reinforced Diamond Boots",
       "subtitles.patricktumble": "",
       "item.i_dont_care.ironcopperpickaxe": "Reinforced Copper Pickaxe",
@@ -1250,7 +1261,7 @@
       "item.i_dont_care.diamondgoldalloytools_sword": "Reinforced Golden Sword",
       "advancements.patachievement.descr": "Find out that there is no escape",
       "item.i_dont_care.goldironhoe": "Reinforced Iron Hoe",
-      "item.i_dont_care.idiot.desc": "The forbidden song",
+      "item.i_dont_care.idiot.desc": "rick astley - never gonna give you up",
       "item.i_dont_care.netheritediamondshovel": "Reinforced Diamond Shovel",
       "item.minecraft.iron_ingot": "Iron Shard",
       "item.i_dont_care.reinforcedgoldarmor_boots": "Reinforced Golden Boots",
@@ -1263,7 +1274,6 @@
       "item.i_dont_care.copperhoe": "Copper Hoe",
       "item.i_dont_care.ironcopperaxe": "Reinforced Copper Axe",
       "item.i_dont_care.coppercoalalloy": "Dirty Copper Alloy",
-      "advancements.dianetheritehoeadv.descr": "Obtain a Reinforced Diamond Hoe",
       "item.i_dont_care.purediamond": "Diamond",
       "item.i_dont_care.ironcopperarmor_boots": "Reinforced Copper Boots",
       "item.i_dont_care.idiot": "Pat Tumble",

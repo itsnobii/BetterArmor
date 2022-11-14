@@ -4,7 +4,7 @@
   "definition": {
     "name": "Pat Tumble",
     "texture": "pattumble",
-    "description": "The forbidden song",
+    "description": "rick astley - never gonna give you up",
     "creativeTab": {
       "value": "MISC"
     },
@@ -14,6 +14,9 @@
       "value": "CUSTOM:rick"
     },
     "lengthInTicks": 4220,
-    "analogOutput": 0
+    "analogOutput": 15,
+    "onRightClickedOnBlock": {
+      "name": "IdiotRightclickedOnBlock"
+    }
   }
 }
