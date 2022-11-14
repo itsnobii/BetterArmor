@@ -1,0 +1,12 @@
+{
+  "type": "minecraft:smithing",
+  "base": {
+    "item": "minecraft:diamond_leggings"
+  },
+  "addition": {
+    "item": "i_dont_care:netheritediamondalloy"
+  },
+  "result": {
+    "item": "i_dont_care:netheritediamondarmor_leggings"
+  }
+}

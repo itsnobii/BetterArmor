@@ -9,15 +9,15 @@
     "group": "",
     "recipeShapeless": false,
     "smithingInputStack": {
-      "value": "CUSTOM:Netheritediamondsword"
+      "value": "CUSTOM:Netheritediamondarmor.boots"
     },
     "smithingInputAdditionStack": {
       "value": "CUSTOM:Purenetheriteingot"
     },
     "smithingReturnStack": {
-      "value": "Items.NETHERITE_SWORD"
+      "value": "Items.NETHERITE_BOOTS"
     },
-    "name": "purenetheriteingottools_sword_recipe",
+    "name": "purenetheriteingotarmor_armor_boots_recipe",
     "namespace": "mod"
   }
 }

@@ -1059,6 +1059,118 @@
       "compiles": true,
       "locked_code": false,
       "registry_name": "patachievement"
+    },
+    {
+      "name": "PurenetheriteingotarmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 173,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purenetheriteingotarmor_armor_helmet_recipe"
+    },
+    {
+      "name": "PurenetheriteingotarmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 174,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purenetheriteingotarmor_armor_body_recipe"
+    },
+    {
+      "name": "PurenetheriteingotarmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 175,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purenetheriteingotarmor_armor_leggings_recipe"
+    },
+    {
+      "name": "PurenetheriteingotarmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 176,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "purenetheriteingotarmor_armor_boots_recipe"
+    },
+    {
+      "name": "NetheritediamondalloytoolsPickaxeRecipe",
+      "type": "recipe",
+      "sortid": 182,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondalloytools_pickaxe_recipe"
+    },
+    {
+      "name": "NetheritediamondalloytoolsAxeRecipe",
+      "type": "recipe",
+      "sortid": 183,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondalloytools_axe_recipe"
+    },
+    {
+      "name": "NetheritediamondalloytoolsSwordRecipe",
+      "type": "recipe",
+      "sortid": 184,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondalloytools_sword_recipe"
+    },
+    {
+      "name": "NetheritediamondalloytoolsShovelRecipe",
+      "type": "recipe",
+      "sortid": 185,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondalloytools_shovel_recipe"
+    },
+    {
+      "name": "NetheritediamondalloytoolsHoeRecipe",
+      "type": "recipe",
+      "sortid": 186,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondalloytools_hoe_recipe"
+    },
+    {
+      "name": "NetheritediamondalloyarmorArmorHelmetRecipe",
+      "type": "recipe",
+      "sortid": 188,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondalloyarmor_armor_helmet_recipe"
+    },
+    {
+      "name": "NetheritediamondalloyarmorArmorBodyRecipe",
+      "type": "recipe",
+      "sortid": 189,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondalloyarmor_armor_body_recipe"
+    },
+    {
+      "name": "NetheritediamondalloyarmorArmorLeggingsRecipe",
+      "type": "recipe",
+      "sortid": 190,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondalloyarmor_armor_leggings_recipe"
+    },
+    {
+      "name": "NetheritediamondalloyarmorArmorBootsRecipe",
+      "type": "recipe",
+      "sortid": 191,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "netheritediamondalloyarmor_armor_boots_recipe"
+    },
+    {
+      "name": "Dianetheritehoeadv",
+      "type": "achievement",
+      "sortid": 192,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "dianetheritehoeadv"
     }
   ],
   "variable_elements": [],
@@ -1107,6 +1219,7 @@
       "item.i_dont_care.diamondgoldalloytools_hoe": "Reinforced Golden Hoe",
       "itemGroup.i_dont_care.idc": "Idc",
       "item.i_dont_care.netheritediamondarmor_chestplate": "Reinforced Diamond Chestplate",
+      "advancements.dianetheritehoeadv.title": "A Really Awkward Middle Ground",
       "item.i_dont_care.netheritediamondarmor_boots": "Reinforced Diamond Boots",
       "subtitles.patricktumble": "",
       "item.i_dont_care.ironcopperpickaxe": "Reinforced Copper Pickaxe",
@@ -1150,6 +1263,7 @@
       "item.i_dont_care.copperhoe": "Copper Hoe",
       "item.i_dont_care.ironcopperaxe": "Reinforced Copper Axe",
       "item.i_dont_care.coppercoalalloy": "Dirty Copper Alloy",
+      "advancements.dianetheritehoeadv.descr": "Obtain a Reinforced Diamond Hoe",
       "item.i_dont_care.purediamond": "Diamond",
       "item.i_dont_care.ironcopperarmor_boots": "Reinforced Copper Boots",
       "item.i_dont_care.idiot": "Pat Tumble",
