@@ -21,7 +21,7 @@ public class NetheritediamondswordItem extends SwordItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 5.5f;
+				return 3.5f;
 			}
 
 			public int getLevel() {

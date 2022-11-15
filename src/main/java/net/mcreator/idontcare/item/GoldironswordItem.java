@@ -21,7 +21,7 @@ public class GoldironswordItem extends SwordItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 4.25f;
+				return 2.25f;
 			}
 
 			public int getLevel() {

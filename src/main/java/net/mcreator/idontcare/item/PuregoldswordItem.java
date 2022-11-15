@@ -21,7 +21,7 @@ public class PuregoldswordItem extends SwordItem {
 			}
 
 			public float getAttackDamageBonus() {
-				return 4.5f;
+				return 2.5f;
 			}
 
 			public int getLevel() {
