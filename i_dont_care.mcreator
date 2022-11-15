@@ -199,14 +199,6 @@
       "registry_name": "idiot"
     },
     {
-      "name": "PATTABLE",
-      "type": "loottable",
-      "sortid": 26,
-      "compiles": true,
-      "locked_code": false,
-      "registry_name": "pattable"
-    },
-    {
       "name": "Copperpickaxe",
       "type": "tool",
       "sortid": 27,
@@ -1183,6 +1175,14 @@
           }
         ]
       }
+    },
+    {
+      "name": "Pattumble",
+      "type": "loottable",
+      "sortid": 194,
+      "compiles": true,
+      "locked_code": false,
+      "registry_name": "pattumble"
     }
   ],
   "variable_elements": [],

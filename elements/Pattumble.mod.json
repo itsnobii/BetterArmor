@@ -16,7 +16,7 @@
             "item": {
               "value": "CUSTOM:Idiot"
             },
-            "weight": 10,
+            "weight": 100,
             "minCount": 1,
             "maxCount": 1,
             "minEnchantmentLevel": 0,
@@ -28,7 +28,7 @@
         ]
       }
     ],
-    "name": "chests/abandoned_mineshaft",
-    "namespace": "mod"
+    "name": "chests/stronghold",
+    "namespace": "minecraft"
   }
 }

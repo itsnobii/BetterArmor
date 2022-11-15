@@ -15,7 +15,7 @@
       "value": "CUSTOM:Purediamond"
     },
     "smithingReturnStack": {
-      "value": "Items.DIAMOND_HELMET"
+      "value": "Items.DIAMOND_PICKAXE"
     },
     "name": "purediamondtools_pickaxe_recipe",
     "namespace": "mod"
